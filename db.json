@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": " ravi",
+      "username": " ravig",
+      "email": "ravig@gmail.com",
+      "phone": " 2255223435",
+      "website": " ravi.com",
+      "id": 14
+    },
+    {
+      "name": [
+        " Akash gupta"
+      ],
+      "username": " Akashg",
+      "email": "akash@gmail.com",
+      "phone": "22332133322",
+      "website": "akash.com",
+      "id": 16
+    },
+    {
+      "name": [
+        "Dilip kumar "
+      ],
+      "username": [
+        " gupta g"
+      ],
+      "email": "dilip@gmail.com",
+      "phone": " 9621581472",
+      "website": " dilip.com",
+      "id": 17
+    },
+    {
+      "name": [
+        " Suraj gupta"
+      ],
+      "username": [
+        "Suraj "
+      ],
+      "email": "Suraj@gmail.com",
+      "phone": "9957474954675",
+      "website": " suraj.com",
+      "id": 18
+    }
+  ]
+}
