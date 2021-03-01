@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shiv764am/todolist.git/static/css/main.bf627e1c.chunk.css",
+    "main.js": "/Shiv764am/todolist.git/static/js/main.af610376.chunk.js",
+    "main.js.map": "/Shiv764am/todolist.git/static/js/main.af610376.chunk.js.map",
+    "runtime-main.js": "/Shiv764am/todolist.git/static/js/runtime-main.7ebaf0f8.js",
+    "runtime-main.js.map": "/Shiv764am/todolist.git/static/js/runtime-main.7ebaf0f8.js.map",
+    "static/js/2.871ad016.chunk.js": "/Shiv764am/todolist.git/static/js/2.871ad016.chunk.js",
+    "static/js/2.871ad016.chunk.js.map": "/Shiv764am/todolist.git/static/js/2.871ad016.chunk.js.map",
+    "static/js/3.e42174f4.chunk.js": "/Shiv764am/todolist.git/static/js/3.e42174f4.chunk.js",
+    "static/js/3.e42174f4.chunk.js.map": "/Shiv764am/todolist.git/static/js/3.e42174f4.chunk.js.map",
+    "index.html": "/Shiv764am/todolist.git/index.html",
+    "static/css/main.bf627e1c.chunk.css.map": "/Shiv764am/todolist.git/static/css/main.bf627e1c.chunk.css.map",
+    "static/js/2.871ad016.chunk.js.LICENSE.txt": "/Shiv764am/todolist.git/static/js/2.871ad016.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ebaf0f8.js",
+    "static/js/2.871ad016.chunk.js",
+    "static/css/main.bf627e1c.chunk.css",
+    "static/js/main.af610376.chunk.js"
+  ]
+}
